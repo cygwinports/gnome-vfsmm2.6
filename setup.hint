@@ -1,0 +1,4 @@
+category: Gnome
+requires: cygwin glib2 glibmm24 gnome-vfs2 libsigc++20
+sdesc: "C++ bindings for libgnomevfs-2 (runtime)"
+ldesc: "C++ bindings for libgnomevfs-2"
