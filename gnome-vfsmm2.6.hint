@@ -1,0 +1,3 @@
+category: Gnome
+sdesc: "C++ bindings for libgnomevfs-2 (sources)"
+ldesc: "C++ bindings for libgnomevfs-2"

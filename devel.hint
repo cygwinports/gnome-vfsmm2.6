@@ -1,5 +1,0 @@
-category: Gnome
-requires: cygwin gnome-vfsmm26 glib2-devel glibmm24-devel gnome-vfs2-devel libsigc++20-devel
-external-source: gnome-vfsmm26
-sdesc: "C++ bindings for libgnomevfs-2 (development)"
-ldesc: "C++ bindings for libgnomevfs-2"
