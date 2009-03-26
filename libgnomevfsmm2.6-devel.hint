@@ -1,5 +1,5 @@
 category: Gnome
-requires: cygwin libgnomevfsmm2.6_1 libglib2.0-devel libglibmm2.4-devel libgnomevfs2-devel libsigc2.0-devel
+requires: cygwin libgnomevfsmm2.6_1 libglib2.0-devel libglibmm2.4-devel libgnomevfs2-devel libsigc2.0-devel libstdc++6-devel
 external-source: gnome-vfsmm2.6
 sdesc: "C++ bindings for libgnomevfs-2 (development)"
 ldesc: "C++ bindings for libgnomevfs-2"
